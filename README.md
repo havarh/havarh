@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @havarh
-- 👀 I’m interested in 
-- 🌱 Coding
-- 💞️ Hacking (white hat)
-- 
-- 📫 How to reach me havarh#5691 on Discord
+Hi, I’m @havarh 👋💞️👀🌱
+-  I’m interested in: 
+  - Coding
+  - Hacking (white hat)
+  
+You can reach me on Discord as havarh#5691 📫
 
 <!---
 havarh/havarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
