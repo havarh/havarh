@@ -3,7 +3,7 @@ Hi, I’m @havarh 👋💞️👀🌱
   - Coding
   - Hacking (white hat)
   
-You can reach me on Discord as havarh#5691 📫
+You can reach me on Discord as havarh 📫
 
 <!---
 havarh/havarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
